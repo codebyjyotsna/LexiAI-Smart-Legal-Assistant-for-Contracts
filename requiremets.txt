@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+transformers
+torch
+joblib
+openai
