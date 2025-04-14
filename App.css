@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+.upload-page, .summary-page {
+  text-align: center;
+  margin-top: 100px;
+}
